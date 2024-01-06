@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kamar
-- 👀 I’m interested in data driven product development
+- 👀 I’m a passionate and result driven engineer
 - 🌱 I’m currently learning Kafka and event driven architecture
-- 💞️ I’m interested on contributing open source Python and Java Project
+- 💞️ I’m interested on contributing open source Python, Java and Go projects
 - 📫 Please reach me at mkeee08@gmail.com
 
 <!---
